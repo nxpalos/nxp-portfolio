@@ -27,6 +27,14 @@
     margin-bottom: var(--mb-2);
 }
 
+.footer__attribute {
+    display: flex;
+    justify-content: center;
+    column-gap: 1.5rem;
+    margin-bottom: var(--mb-2);
+    color: black;
+}
+
 .footer__social {
     display: flex;
     justify-content: center;

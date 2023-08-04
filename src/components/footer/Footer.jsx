@@ -48,6 +48,7 @@ const Footer = () => {
                     <FiLinkedin />
                 </a>    
             </div>
+            <a href="https://www.flaticon.com/free-icons/milk-tea" className="footer__attribute" title="milk tea icons" target="_blank">Milk tea icons created by Freepik - Flaticon</a>
             <span className="footer__copy"></span>
         </div>
     </footer>
