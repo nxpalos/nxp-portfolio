@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nxp-portfolio/static/css/main.d203de55.css",
+    "main.js": "/nxp-portfolio/static/js/main.344b9c93.js",
+    "static/media/nat_aboutme_filter.jpg": "/nxp-portfolio/static/media/nat_aboutme_filter.e23e1b890582a276b438.jpg",
+    "static/media/NP_Resume2023.pdf": "/nxp-portfolio/static/media/NP_Resume2023.99027e2bea47083d8294.pdf",
+    "static/media/natgrad_filter2.jpg": "/nxp-portfolio/static/media/natgrad_filter2.2985463592d6f5c2bfdb.jpg",
+    "index.html": "/nxp-portfolio/index.html",
+    "main.d203de55.css.map": "/nxp-portfolio/static/css/main.d203de55.css.map",
+    "main.344b9c93.js.map": "/nxp-portfolio/static/js/main.344b9c93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d203de55.css",
+    "static/js/main.344b9c93.js"
+  ]
+}
