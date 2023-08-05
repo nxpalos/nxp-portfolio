@@ -13,7 +13,7 @@ import './about.css';
 
 //Assets
 import AboutImg from '../../assets/nat_aboutme_filter.jpg';
-import Resume from '../../assets/NP_Resume2023.pdf';
+import Resume from '../../assets/NP_Resume_2023.pdf';
 
  
 const About = () => {
