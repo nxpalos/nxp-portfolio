@@ -13,7 +13,7 @@ import './about.css';
 
 //Assets
 import AboutImg from '../../assets/nat_aboutme_filter.jpg';
-import Resume from '../../assets/NP_Resume_2023.pdf';
+import Resume from '../../assets/Natalie_Palos_Resume_25.pdf';
 
  
 const About = () => {
@@ -27,7 +27,7 @@ const About = () => {
 
         <div className="about__data">
           <Info /> 
-          <p className="about__description"> Growing up in the Silicon Valley, I have always been passionate about innovation and creativity. I hope to emulate these qualities in my work and hobbies throughout my life. I have experience in research and development and frontend development. <br/> <br/>My proudest accomplishment is having a research paper on a Natural Gas Monitoring System published by the IN4PL Conference.</p>
+          <p className="about__description"> Growing up in the Silicon Valley, I have always been passionate about innovation and creativity. I aspire to emulate these qualities in my work and hobbies. I have experience in technial documentation, full-stack development, and research and development. <br/> <br/>My proudest accomplishment is the publication of my research paper on a natural gas monitoring system by the IN4PL Conference.</p>
 
           <a download="" href={Resume} className="button button--flex">
             Download Resume

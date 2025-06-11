@@ -19,13 +19,13 @@ const Certifications = () => {
     return (
         <section className="certifications section" id="certifications">
             <h2 className="section__title">Certifications</h2>
-            <span className="section__subtitle">What I Offer</span>
+            <span className="section__subtitle">My Credentials</span>
 
             <div className="certifications__container container grid">
                 <div className="certifications__content">
                     <div>
                         <i className="uil uil-web-grid certifications__icon"></i>
-                        <h3 className="certifications__title">Java <br/> Certificate </h3>
+                        <h3 className="certifications__title">Java <br/> Certification </h3>
                     </div>
 
                     <span className="certifications__button" onClick={() => toggleTab(1)}>View More <i className="uil uil-arrow-right certifications__button-icon"></i></span>
@@ -64,7 +64,7 @@ const Certifications = () => {
                 <div className="certifications__content">
                     <div>
                         <i className="uil uil-arrow certifications__icon"></i>
-                        <h3 className="certifications__title">JavaScript <br/> Certificate </h3>
+                        <h3 className="certifications__title">JavaScript <br/> Certification </h3>
                     </div>
 
                     <span className="certifications__button"  onClick={() => toggleTab(2)} >View More <i className="uil uil-arrow-right certifications__button-icon"></i></span>
@@ -100,6 +100,44 @@ const Certifications = () => {
                             <li className="certifications__modal-service">
                                 <i className="uil uil-check-circle certifications__modal-icon"></i>
                                 <p className="certifications__modal-info"><a href="https://www.hackerrank.com/certificates/6bdad910bc6d" target="_blank" rel="noopener noreferrer">View Certification</a></p>
+                            </li>
+                        </div>
+                    </div>
+                </div>
+                <div className="certifications__content">
+                    <div>
+                        <i className="uil uil-web-grid certifications__icon"></i>
+                        <h3 className="certifications__title">Technical Writer <br/> Certification </h3>
+                    </div>
+
+                    <span className="certifications__button" onClick={() => toggleTab(1)}>View More <i className="uil uil-arrow-right certifications__button-icon"></i></span>
+
+                    <div className={toggleState === 1 ? "certifications__modal active-modal" : "certifications__modal"}>
+                        <div className="certifications__modal-content">
+                            <i onClick={() => toggleTab(0)} className="uil uil-times certifications__modal-close"></i>
+
+                            <h3 className="certifications__modal-title" >Technical Writer Certificate in Progress</h3>
+                            <p className="certifications__modal-description">Issued by: Technical Writer HQ</p>
+
+                            <ul className="certifications__modal-certifications grid"></ul>
+                            <li className="certifications__modal-service">
+                                <i className="uil uil-check-circle certifications__modal-icon"></i>
+                                <p className="certifications__modal-info">Fundamental skills and best practices for Technical Writing</p>
+                            </li>
+                            
+                            <li className="certifications__modal-service">
+                                <i className="uil uil-check-circle certifications__modal-icon"></i>
+                                <p className="certifications__modal-info">Formatting, editing, readability, etc.</p>
+                            </li>
+
+                            <li className="certifications__modal-service">
+                                <i className="uil uil-check-circle certifications__modal-icon"></i>
+                                <p className="certifications__modal-info">Graphs, charts, tables, etc.</p>
+                            </li>
+
+                            <li className="certifications__modal-service">
+                                <i className="uil uil-check-circle certifications__modal-icon"></i>
+                                <p className="certifications__modal-info"><a href="https://technicalcommunication.mn.co/" target="_blank" rel="noopener noreferrer">View Course</a></p>
                             </li>
                         </div>
                     </div>

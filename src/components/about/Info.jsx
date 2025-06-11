@@ -22,7 +22,7 @@ const info = () => {
 
       <div className="about__box">
         <i class='bx bx-message-alt-dots about__icon'></i>
-        <h3 className="about__title">Open to Connect!</h3>
+        <h3 className="about__title">Let's Connect!</h3>
         {/* <span className="about__subtitle">Online 24/7</span> */}
       </div>
     </div>

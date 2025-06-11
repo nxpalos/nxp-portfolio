@@ -10,7 +10,7 @@ const Testimonials = () => {
   return (
     <section className="testimonial container section">
         <h2 className="section__title">Testimonials</h2>
-        <span className="section__subtitle">Testimonial</span>
+        <span className="section__subtitle">Professional Recommendations</span>
         <Swiper className="testimonial__container"
             loop={true}
             grabCursor={true}
@@ -33,7 +33,7 @@ const Testimonials = () => {
             {Data.map(({id, image, title, description}) => {
                 return (
                     <SwiperSlide className="testimonial__card" key={id}>
-                        <img src={image} alt="client" className="testimonial__img" />
+                        {/* <img src={image} alt="client" className="testimonial__img" /> */}
                         <h3 className="tetimonial__name">{title}</h3>
                         <p className="testimonial__description">{description}</p>
                     </SwiperSlide>

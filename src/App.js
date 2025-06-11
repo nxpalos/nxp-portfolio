@@ -19,7 +19,7 @@ import Qualification from './components/qualifiations/Qualification';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp';
-// import Testamonials from './components/testimonials/Testimonials';
+import Testamonials from './components/testimonials/Testimonials';
 import Projects from './components/projects/Projects';
 
 
@@ -35,6 +35,7 @@ function App() {
       <Certifications />
       <Qualification />
       <Projects />
+      {/* <Testamonials /> */}
       <Contact />
     </main>
       <Footer />

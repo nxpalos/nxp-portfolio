@@ -6,19 +6,19 @@ export const Data = [
     {
         id: 1,
         // image: Image1,
-        title: "Kris C.",
-        description: "Executed the concept with clarity and adaptability.",
+        title: "Amir K.",
+        description: "I am delighted to recommend Natalie for any technical analyst/writing position. As a Technical Writer with a degree in Computer Science, Natalie possesses a unique blend of technical expertise and exceptional communication skills that greatly enhance her ability to create high-quality documentation.",
     },
     {
         id: 2,
         // image: Image2,
-        title: "JavaScript (Intermediate) Certificate",
-        description: "Provided creative insight and improvment to the project.",
+        title: "Dakota W.",
+        description: "I’ve had the pleasure of working alongside Natalie on a variety of projects, and time and again she has gone above and beyond to ensure each one’s success. Her exceptional communication, unwavering determination, and consistently high-quality work set her apart.",
     },
     {
         id: 3,
         // image: Image3,
-        title: "Gemma B.",
-        description: "Fixed the glitch and made the site easier to use.",
+        title: "Mackenzie K.",
+        description: "She collaborates seamlessly with engineers and developers to gather complex information and then breaks it down into user-friendly, easy-to-understand documentation. Any team would be lucky to have Natalie! ",
     },
 ];

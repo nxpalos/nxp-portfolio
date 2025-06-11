@@ -21,8 +21,8 @@ const Data = () => {
                 backDelay={3000}
               />
             </h1>
-            <h3 className="home__subtitle">Software Engineer</h3>
-            <p className="home__description">Hello world! I'm a recently graduated Computer Science student. I am reliable, a quick learner, and an effective communicator.</p>
+            <h3 className="home__subtitle">Technical Writer & Software Developer</h3>
+            <p className="home__description">I'm an experienced technical writer with a strong background in developing clear, concise, and user-friendly documentation for both technical and non-tehcnical audiences. <br/> <br/> Let's connect if you're interested in documentation strategy, API writing, or the intersection of tech and communication.</p>
 
             <a href="#contact" className="button button--flex">
                 Say Hello

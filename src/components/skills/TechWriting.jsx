@@ -1,15 +1,16 @@
 //
-// Frontend Component
+// TechWriting Component
 //
+
 
 //Libraries
 import React from 'react'
 
 
-const Frontend = () => {
+const TechWriting = () => {
   return (
     <div className="skills__content">
-        <h3 className="skills__title">Frontend Skills</h3>
+        <h3 className="skills__title">Technical Writing Skills</h3>
 
         <div className="skills__box">
             <div className="skills__group">
@@ -17,8 +18,8 @@ const Frontend = () => {
                 <i class='bx bx-badge-check'></i>
 
                  <div>
-                    <h3 className="skills__name">HTML</h3>
-                    <div className="span skills_level">Intermediate</div>
+                    <h3 className="skills__name">API Documentation</h3>
+                    <div className="span skills_level"></div>
                  </div>
                 </div>
 
@@ -26,8 +27,8 @@ const Frontend = () => {
                 <i class='bx bx-badge-check'></i>
 
                  <div>
-                    <h3 className="skills__name">CSS</h3>
-                    <div className="span skills_level">Intermediate</div>
+                    <h3 className="skills__name">Information Architecture</h3>
+                    <div className="span skills_level"></div>
                  </div>
                 </div>
 
@@ -35,8 +36,8 @@ const Frontend = () => {
                 <i class='bx bx-badge-check'></i>
 
                  <div>
-                    <h3 className="skills__name">Javascript</h3>
-                    <div className="span skills_level">Intermediate</div>
+                    <h3 className="skills__name">Audience Analysis</h3>
+                    <div className="span skills_level"></div>
                  </div>
                 </div>
             </div>
@@ -46,8 +47,8 @@ const Frontend = () => {
                 <i class='bx bx-badge-check'></i>
 
                  <div>
-                    <h3 className="skills__name">Bootstrap</h3>
-                    <div className="span skills_level">Intermediate</div>
+                    <h3 className="skills__name">Confluence & Jira</h3>
+                    <div className="span skills_level"></div>
                  </div>
                 </div>
 
@@ -55,8 +56,8 @@ const Frontend = () => {
                 <i class='bx bx-badge-check'></i>
 
                  <div>
-                    <h3 className="skills__name">Git</h3>
-                    <div className="span skills_level">Intermediate</div>
+                    <h3 className="skills__name">Swagger.io</h3>
+                    <div className="span skills_level"></div>
                  </div>
                 </div>
 
@@ -64,8 +65,8 @@ const Frontend = () => {
                 <i class='bx bx-badge-check'></i>
 
                  <div>
-                    <h3 className="skills__name">React</h3>
-                    <div className="span skills_level">Intermediate</div>
+                    <h3 className="skills__name">Postman</h3>
+                    <div className="span skills_level"></div>
                  </div>
                 </div>
             </div>
@@ -73,8 +74,7 @@ const Frontend = () => {
 
         </div>
     </div>
-    
   )
 }
 
-export default Frontend
+export default TechWriting

@@ -17,6 +17,7 @@ const Portfolio = () => {
   return (
     <section className="portfolio section" id="portfolio">
         <Projects />
+
     </section>
   );
 }
