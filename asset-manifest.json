@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nxp-portfolio/static/css/main.08962ddd.css",
-    "main.js": "/nxp-portfolio/static/js/main.f65444b9.js",
+    "main.css": "/nxp-portfolio/static/css/main.8acb8529.css",
+    "main.js": "/nxp-portfolio/static/js/main.75bc9891.js",
     "static/media/nat_aboutme_filter.jpg": "/nxp-portfolio/static/media/nat_aboutme_filter.e23e1b890582a276b438.jpg",
-    "static/media/NP_Resume_2023.pdf": "/nxp-portfolio/static/media/NP_Resume_2023.96d1600b9e85450ce854.pdf",
+    "static/media/Natalie_Palos_Resume_25.pdf": "/nxp-portfolio/static/media/Natalie_Palos_Resume_25.0ae2a3f89b8362f0ff9e.pdf",
     "static/media/natgrad_filter2.jpg": "/nxp-portfolio/static/media/natgrad_filter2.2985463592d6f5c2bfdb.jpg",
     "index.html": "/nxp-portfolio/index.html",
-    "main.08962ddd.css.map": "/nxp-portfolio/static/css/main.08962ddd.css.map",
-    "main.f65444b9.js.map": "/nxp-portfolio/static/js/main.f65444b9.js.map"
+    "main.8acb8529.css.map": "/nxp-portfolio/static/css/main.8acb8529.css.map",
+    "main.75bc9891.js.map": "/nxp-portfolio/static/js/main.75bc9891.js.map"
   },
   "entrypoints": [
-    "static/css/main.08962ddd.css",
-    "static/js/main.f65444b9.js"
+    "static/css/main.8acb8529.css",
+    "static/js/main.75bc9891.js"
   ]
 }
