@@ -22,7 +22,7 @@ const Data = () => {
               />
             </h1>
             <h3 className="home__subtitle">Technical Writer & Software Developer</h3>
-            <p className="home__description">I'm an experienced technical writer with a strong background in developing clear, concise, and user-friendly documentation for both technical and non-tehcnical audiences. <br/> <br/> Let's connect if you're interested in documentation strategy, API writing, or the intersection of tech and communication.</p>
+            <p className="home__description">I'm an experienced technical writer with a strong background in developing clear, concise, and user-friendly documentation for both technical and non-technical audiences. <br/> <br/> Let's connect if you're interested in documentation strategy, API writing, or the intersection of tech and communication.</p>
 
             <a href="#contact" className="button button--flex">
                 Say Hello
